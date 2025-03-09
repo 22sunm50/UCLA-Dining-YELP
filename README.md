@@ -72,6 +72,11 @@ chmod +x runbruingrub.sh
 ```
 The backend server will be available on http://localhost:8080, while the frontend application should pop up automatically in the browser on http://localhost:3000.  
 # Contributors
+Michelle Sun
+1. Frontend and Backend for Login/Registration Page
+2. Frontend and Backend for Main Page (including the Search Bar)
+3. Frontend for Comments Page
+4. Frontend for Post Page
 
 Melina Eftekhari
 1. Frontend and connected to Backend for Login/Registration Page.
@@ -79,13 +84,6 @@ Melina Eftekhari
 3. Frontend and backend of search feature.
 4. Frontend additions to Navigration/Header Bar.
 5. Frontend additions to Calorie Counter.
-
-
-Michelle Sun
-1. Frontend and connected to Backend for Login/Registration Page
-2. Frontend and connected to Backend for Main Page (including the Search Bar)
-3. Frontend for Comments Page
-4. Frontend for Post Page
 
 Faith Nguyen
 1. Frontend and connected to Backend for Comments Page
